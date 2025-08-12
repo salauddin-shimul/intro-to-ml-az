@@ -7,7 +7,7 @@ It follows along with the course structure, implementing machine learning concep
 
 The course covers a broad range of machine learning topics, including:
 
-* **Data preprocessing** [✅]
+* [✅] **Data preprocessing**
 * **Regression** (Simple, Multiple, Polynomial, SVR, Decision Tree, Random Forest)
 * **Classification** (Logistic Regression, K-NN, SVM, Kernel SVM, Naive Bayes, Decision Tree, Random Forest)
 * **Clustering** (K-Means, Hierarchical)
