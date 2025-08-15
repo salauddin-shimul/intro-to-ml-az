@@ -3,6 +3,8 @@
 This repository contains my solutions and exercise code for the [Machine Learning A–Z™: AI, Python & R](https://www.udemy.com/course/machinelearning/?srsltid=AfmBOop_VY-LHBIh8T21u-w9CxR2HEdLPbzbkf7OuaqksQ6j2weY3VfF) course on Udemy.
 It follows along with the course structure, implementing machine learning concepts in **Python**.
 
+**Disclaimer:** The original code and dataset are the property of their respective owners. They are used here solely for educational purposes.
+
 ## 📚 Course Overview
 
 The course covers a broad range of machine learning topics, including:
