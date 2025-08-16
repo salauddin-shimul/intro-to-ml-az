@@ -74,14 +74,9 @@ Each folder contains:
 
 ## 📌 Notes
 
-* All code here is based on course exercises but written and commented by me.
 * Datasets used are either provided by the course or sourced from public datasets.
 * This repository is for **learning purposes only** — it is **not** an official course material replacement.
 
 ## 📜 License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
-If you’d like, I can also create a **`requirements.txt`** with all the packages needed so that anyone can run your notebooks without setup headaches. That way, your repo will be plug-and-play.
